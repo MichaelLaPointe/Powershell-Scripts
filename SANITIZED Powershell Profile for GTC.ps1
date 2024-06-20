@@ -14,8 +14,7 @@
     all the code inside (Seriously, just don't. Powershell is a tool you need 
     to do your job and you don't want to make it unusable.) If you do edit your
     profile and make a mistake, you can delete the profile altogether and start 
-    from scratch. Both your regular account and zero account each have their own
-    Powershell profile (You can actually have up to FOUR for each account.)
+    from scratch.
 
 .Notes
     Created By :  Michael LaPointe
