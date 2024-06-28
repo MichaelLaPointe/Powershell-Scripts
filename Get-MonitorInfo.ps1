@@ -4,6 +4,8 @@ function Get-MonitorInfo {
     # The name of the remote computer to query
     $ComputerName
   )
+  #Test
+  $Test
 
   # Define a function to decode byte arrays into strings. We will use this to translate the "UserFriendlyName" 
   function Use-Decode {
